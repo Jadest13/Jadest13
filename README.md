@@ -14,7 +14,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime%20Text&logoColor=white)
