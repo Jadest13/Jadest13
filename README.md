@@ -18,10 +18,10 @@
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=Html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=Css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=Javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=%23F7DF1E)
-![JSP](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![JSP](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Unity](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Skript](https://img.shields.io/badge/Skript-62B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
@@ -33,9 +33,11 @@
 ![Ae](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Lr](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-![React](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 <h1> hello </h1>
 <!--
 **Jadest13/Jadest13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
