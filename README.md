@@ -11,6 +11,8 @@
 ### Tech Stack
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Jadest13&show_icons=true&theme=tokyonight" width=49.2% />
+
 ![Jadest13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadest13&show_icons=true&theme=tokyonight)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsu11)](https://solved.ac/hyunsu11)
 
