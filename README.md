@@ -27,11 +27,11 @@
 ![Skript](https://img.shields.io/badge/Skript-%2362B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
 
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
-![Ps](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Ai](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Ps](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Ai](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 ![Pr](https://img.shields.io/badge/Premier%20Pro-%239999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Ae](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Lr](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Ae](https://img.shields.io/badge/After%20Effects-%239999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Lr](https://img.shields.io/badge/Lightroom-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ![React](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
