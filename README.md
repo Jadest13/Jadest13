@@ -8,7 +8,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=400&section=header&text=Jadest13&fontSize=180)
   -->
 
-
+### Tech Stack
 
 
 ![Jadest13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadest13&show_icons=true&theme=tokyonight)
