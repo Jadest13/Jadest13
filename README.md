@@ -1,5 +1,9 @@
 # 🤸‍♂️Brain Cooling Spot🤸‍♀️
 
+---
+
+### Take a rest here☕
+
 <div align="center">
   
   <!--
