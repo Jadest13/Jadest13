@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Jadest13%20render&fontSize=90)
+
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJadest13%2F&count_bg=%2379C83D&title_bg=%23000000&icon=twitch.svg&icon_color=%2379C83D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -7,7 +10,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunsu11)](https://solved.ac/hyunsu11)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **Jadest13/Jadest13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
