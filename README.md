@@ -29,7 +29,7 @@
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
 ![Ps](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Ai](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Pr](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Pr](https://img.shields.io/badge/Premier%20Pro-%239999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Ae](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Lr](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
