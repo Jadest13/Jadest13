@@ -41,6 +41,8 @@
 ![Ae](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Lr](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
+![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
+
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 
