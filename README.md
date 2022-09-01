@@ -10,32 +10,32 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunsu11)](https://solved.ac/hyunsu11)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=c%20Sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=Html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=Css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=Javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=%23F7DF1E)
-![JSP](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=%23F7DF1E)
-![Unity](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=Html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=Css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=Javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=%23F7DF1E)
+![JSP](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=%23F7DF1E)
+![Unity](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Skript](https://img.shields.io/badge/Skript-%2362B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-62B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
 
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
-![Ps](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Ai](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
-![Pr](https://img.shields.io/badge/Premier%20Pro-%239999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Ae](https://img.shields.io/badge/After%20Effects-%239999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Lr](https://img.shields.io/badge/Lightroom-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
+![Ps](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Ai](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+![Pr](https://img.shields.io/badge/Premier%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Ae](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Lr](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-![React](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <h1> hello </h1>
 <!--
 **Jadest13/Jadest13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
