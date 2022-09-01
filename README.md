@@ -11,9 +11,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunsu11)](https://solved.ac/hyunsu11)
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%20Sharp-%23239120.svg?style=for-the-badge&logo=c%20Sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=c%20Sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=Html5&logoColor=white)
