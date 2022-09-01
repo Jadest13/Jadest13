@@ -24,9 +24,9 @@
 ![Node.js](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Unity](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Skript](https://img.shields.io/badge/Skript-%62B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-%2362B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
 
-![Adobe](https://img.shields.io/badge/Adobe-%FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
 ![Ps](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Ai](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Pr](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
