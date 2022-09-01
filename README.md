@@ -3,7 +3,7 @@
 ---
 
 ## Ice Breaking!🥶
-### Soongsil University, majored in CSE
+### 🏤: Soongsil University, majored in CSE
 
 <div align="center">
   
