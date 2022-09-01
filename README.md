@@ -26,7 +26,7 @@
 
 ![Skript](https://img.shields.io/badge/Skript-%62B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
 
-![Adobe](https://img.shields.io/badge/Adobe-#FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-%FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
 ![Ps](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Ai](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Pr](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
