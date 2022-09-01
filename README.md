@@ -14,9 +14,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Jadest13&show_icons=true&theme=tokyonight" width=49.2% />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsu11" width=49.2% />
 
-![Jadest13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadest13&show_icons=true&theme=tokyonight)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsu11)](https://solved.ac/hyunsu11)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadest13&layout=Demo&theme=tokyonight)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
