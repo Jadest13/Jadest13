@@ -9,13 +9,13 @@
   -->
 
 ### Tech Stack
-<div align="top">
-<a>
+<div align="center">
+<br>
   <img src="https://github-readme-stats.vercel.app/api?username=Jadest13&show_icons=true&theme=tokyonight" width=44.2% />
-</a>
-<a>
+<br>
+<br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsu11" width=44.2% />
-</a>
+<br>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadest13&layout=Demo&theme=tokyonight)
