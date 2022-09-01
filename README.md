@@ -3,7 +3,7 @@
 ---
 
 ## Ice Breaking!🥶
-# Soongsil University
+### Soongsil University
 
 <div align="center">
   
