@@ -37,7 +37,7 @@
 
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white)
 
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
 ![Skript](https://img.shields.io/badge/Skript-62B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
 
