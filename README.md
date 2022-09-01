@@ -10,7 +10,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunsu11)](https://solved.ac/hyunsu11)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white" style="font-size: 100px"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white&logoWidth=40" style="font-size: 100px"/>
 <h1> hello </h1>
 <!--
 **Jadest13/Jadest13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
