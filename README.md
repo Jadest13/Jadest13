@@ -9,6 +9,8 @@
   -->
 
 ### Tech Stack
+
+<div align="center">
 <div align="center">
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Jadest13&show_icons=true&theme=tokyonight" width=44.2% />
@@ -17,8 +19,8 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsu11" width=44.2% />
 <br>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadest13&layout=Demo&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadest13&layout=Demo&theme=tokyonight" width=44.2% />
+</div>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
