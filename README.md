@@ -9,7 +9,7 @@
   -->
 
 ### Tech Stack
-<div align="center">
+<div align="top">
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=Jadest13&show_icons=true&theme=tokyonight" width=44.2% />
 </a>
