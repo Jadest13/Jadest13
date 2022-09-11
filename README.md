@@ -6,7 +6,7 @@
 
 - 🌱 **I’m currently learning "Make sense to any Situations & Environments"**
 - 🤔 **"How to crawling website without CORS with Next.js???"**
-- ⚡ **Fun fact: "Im noob";**
+- ⚡ **Fun fact: "Im noot noob";**
 
 - 🏤 **Soongsil University, CSE(Computer Science & Engineering)**
 - 🍰 **is Lie**
