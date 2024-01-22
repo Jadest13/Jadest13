@@ -29,9 +29,11 @@
 
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04.1%20LTS-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![windows11](https://img.shields.io/badge/windows%2011-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white)
 
-![Windows](https://img.shields.io/badge/Windows%2010-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
+![macos](https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=macos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04.1%20LTS-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![windows10](https://img.shields.io/badge/windows%2010-0078D6.svg?style=for-the-badge&logo=windows10&logoColor=white)
 
 
 ## Programming Languages
@@ -50,6 +52,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=black)
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=black)
+![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?style=for-the-badge&logo=JQuery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-F7DF1E.svg?style=for-the-badge&logo=JSP&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -61,13 +64,18 @@
 
 ## Back-end
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+
+## Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![typeform](https://img.shields.io/badge/typeform-262627.svg?style=for-the-badge&logo=typeform&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
+
+![phpmyadmin](https://img.shields.io/badge/phpmyadmin-6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ## Native
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
@@ -125,6 +133,9 @@
 ***
 
 ## Learning...
+
+![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)
